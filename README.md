@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ukXkuQi0)
 
 Hansen Nathaniel 1313623071
-scientific calculator specific like sin, cos, tan, power(^), 1/x works the rest have somewhat been applied and the inverse has not been applied at all
+
 # ScientificApplication
 This is blank template with the exception of this readme. You are free to push anything to this repo that are related to the homework. 
 
